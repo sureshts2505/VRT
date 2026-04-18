@@ -19,7 +19,7 @@ const Header = () => {
           <Link className="nav-link active fw-bold mx-2" aria-current="page" to="/" >Home</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link  fw-bold mx-2" aria-current="page" to="" >About</Link>
+          <Link className="nav-link  fw-bold mx-2" aria-current="page" to="/" >About</Link>
         </li>
         <li className="nav-item">
           <a className="nav-link mx-2 fw-bold" href="#">Solution</a>
